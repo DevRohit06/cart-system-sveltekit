@@ -8,9 +8,9 @@
   "name": "Cart Management System",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "favicon-144.png",
       "type": "image/png",
-      "sizes": "128x128",
+      "sizes": "144x144",
       "purpose": "any"
     },
     {
