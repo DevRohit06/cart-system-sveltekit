@@ -83,7 +83,7 @@
                                     </a>
                                   </h3>
                                   <p class="font-bold">
-                                    ₹ {item.totalPrice || item.price}
+                                    ₹ {item.price}
                                   </p>
                                 </div>
                               </div>
