@@ -1,0 +1,12 @@
+{
+  "theme_color": "#3089fd",
+  "background_color": "#ffffff",
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "Cart Management System",
+  "short_name": "CMS",
+  "start_url": "https://cart-system-sveltekit.vercel.app/",
+  "scope": "https://cart-system-sveltekit.vercel.app/"
+}
