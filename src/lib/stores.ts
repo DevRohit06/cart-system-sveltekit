@@ -85,12 +85,12 @@ export function addToCart(product: Product) {
         // Product is already in the cart, increase quantity
         return items.map(item => 
           item.id === product.id 
-            ? { ...item, quantity: item.quantity + 1 } 
+            ? { ...item, quantity: item.quantity + 1} 
             : item
         );
       } else {
         // Product is not in the cart, add it
-        return [...items, { ...product, quantity: 1 }];
+        return [...items, { ...product, quantity: 1, totalPrice: product.price }];
       }
     });
   }

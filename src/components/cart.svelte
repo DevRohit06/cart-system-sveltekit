@@ -16,7 +16,7 @@
     <div
       in:fly={{ x: 200 }}
       out:fly={{ x: 200 }}
-      class="fixed inset-0 overflow-hidden"
+      class="fixed inset-0 overflow-hidden z-40"
     >
       <div class="absolute inset-0 overflow-hidden">
         <div
@@ -180,7 +180,7 @@
               </div>
 
               <div class="border-t border-gray-200 px-4 py-6 sm:px-6">
-                <div
+                <!-- <div 
                   class="flex gap-4 justify-between text-base font-medium text-gray-900"
                 >
                   <div class="flex flex-col w-full">
@@ -220,7 +220,7 @@
                   >
                     Apply
                   </button>
-                </div>
+                </div> -->
 
                 <div
                   class="flex justify-between text-base font-medium text-gray-900"

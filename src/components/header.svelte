@@ -5,10 +5,10 @@
 
 <div class="">
   <header
-    class="header py-4 sticky top-0 bg-white shadow-md flex items-center justify-between px-8 py-02"
+    class="header py-4 fixed z-20 top-0 w-full bg-white shadow-md flex items-center justify-between px-8 py-02"
   >
     <h1 class="w-3/12 text-2xl font-extrabold">
-      <a href="/">Test Store</a>
+      <a href="/">Store</a>
     </h1>
 
     <button class="relative" on:click={() => openCart.update((value) => !value)}>
