@@ -1,5 +1,7 @@
 # create-svelte
 
+This project also created using NextJS checkout at [repo](https://github.com/DevRohit06/cart-management-system)
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
